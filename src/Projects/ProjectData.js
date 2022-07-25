@@ -8,16 +8,16 @@ import empImg from '../assets/image5.png'
 const ProjectData = [
     {
         title: "Employee Portal App",
-        description: "A fullstack CRUD list app running on mobile",
-        codeLink: "https://paultebeila.github.io/crud-app-final/",
-        projectLink: "https://paultebeila.github.io/crud-app-final/",
+        description: "A fullstack CRUD list app running on mobile and web",
+        codeLink: "https://github.com/Supa-Thobile2/employee-crud-app",
+        projectLink: "https://employee1-6629c.web.app",
         imageUrl: planetImage,
         tag: "React",
      },
      {
         title: "Covid Tracker App",
         description: "A fullstack CRUD list app running on mobile",
-        codeLink: "https://github.com/TedHopewell/covid-19-Tracker",
+        codeLink: "#",
         projectLink: "#",
         imageUrl: planetImage,
         tag: "React",
@@ -25,8 +25,8 @@ const ProjectData = [
      {
         title: "Budget App",
         description: "A fullstack CRUD list app running on mobile",
-        codeLink: "https://github.com/paultebeila/budget-app2",
-        projectLink: "https://paultebeila.github.io/budget-app2",
+        codeLink: "https://github.com/Supa-Thobile2/Budget-App1",
+        projectLink: "https://budget-app-239e5.web.app/",
         imageUrl: planetImage,
         tag: "React",
      }
