@@ -17,7 +17,7 @@ const ProjectData = [
      {
         title: "Covid Tracker App",
         description: "A fullstack CRUD list app running on mobile",
-        codeLink: "#",
+        codeLink: "https://github.com/Supa-Thobile2/CovidTracker1",
         projectLink: "#",
         imageUrl: planetImage,
         tag: "React",
