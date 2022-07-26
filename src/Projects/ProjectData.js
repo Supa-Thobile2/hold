@@ -20,9 +20,9 @@ const ProjectData = [
         description: "A fullstack CRUD list app running on mobile",
         codeLink: "https://github.com/Supa-Thobile2/CovidTracker1",
 
-        projectLink: "",
+        projectLink: "https://github.com/Supa-Thobile2/CovidTracker1",
         projectLink: " https://covid-tracker-app-5446d.web.app",
-        c1cd6964e12473ab7653f324fad72b1ce81fec38
+       
         imageUrl: planetImage,
         tag: "React",
      },
