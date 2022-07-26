@@ -1,24 +1,25 @@
 import React from 'react'
 import newsappImg from '../assets/image1.jpg'
 import weatherappImg from '../assets/image2.png'
-import planetImage from '../assets/image3.png'
-import onBoardImg from '../assets/image4.png'
+import planetImage from '../assets/image8.jpg'
+import onBoardImg from '../assets/image7.jpg'
 import empImg from '../assets/image5.png'
 
 const ProjectData = [
+   
     {
         title: "Employee Portal App",
         description: "A fullstack CRUD list app running on mobile and web",
         codeLink: "https://github.com/Supa-Thobile2/employee-crud-app",
         projectLink: "https://employee1-6629c.web.app",
-        imageUrl: planetImage,
+        imageUrl: empImg,
         tag: "React",
      },
      {
         title: "Covid Tracker App",
         description: "A fullstack CRUD list app running on mobile",
-        codeLink: "#",
-        projectLink: "#",
+        codeLink: "https://github.com/Supa-Thobile2/CovidTracker1",
+        projectLink: "",
         imageUrl: planetImage,
         tag: "React",
      },
@@ -27,7 +28,7 @@ const ProjectData = [
         description: "A fullstack CRUD list app running on mobile",
         codeLink: "https://github.com/Supa-Thobile2/Budget-App1",
         projectLink: "https://budget-app-239e5.web.app/",
-        imageUrl: planetImage,
+        imageUrl: onBoardImg,
         tag: "React",
      }
      
